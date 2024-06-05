@@ -3,7 +3,7 @@ To set up a local server, I recommend downloading PHP (brew install PHP) and inp
 
 It will take a few seconds to train the model and then it will begin running.
 
-Further documentation on setting up a local server: [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server]
+Further documentation on setting up a local server: [Local Server Documentation](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server)
 
 The code in this repository is based on Google's TensorFlow JS Guide, found in the following link:
-[https://www.youtube.com/watch?v=TuYbgZ59Kpg&list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui&ab_channel=GoogleforDevelopers](https://www.youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui)
